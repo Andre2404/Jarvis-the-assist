@@ -2,7 +2,7 @@
 ![jarvis math solving ](https://github.com/Andre2404/Jarvis-the-assist/assets/100183447/c56e7182-cd09-423a-ba57-289979617a9c)
 ![jarvis goto](https://github.com/Andre2404/Jarvis-the-assist/assets/100183447/32001903-d399-402b-99d4-cfa0eb1bf044)
 
-Jarvis adalah asisten virtual berbasis program terminal cmdyang khusus dibuat untuk competitive programming. Program ini memiliki banyak fitur, termasuk menjalankan file Python atau C++, mengurai rangkaian masalah dengan berbagai macam studi kasus, dan menguji dengan brute force. Program Ini sangat efektif dan efisien untuk membantu meningkatkan keterampilan pemrograman kita dan membantu kita tampil baik dalam kontes atau lomba pemrograman.
+Jarvis adalah asisten virtual berbasis program terminal cmd yang khusus dibuat untuk competitive programming. Program ini memiliki banyak fitur, termasuk menjalankan file Python atau C++, mengurai rangkaian masalah dengan berbagai macam studi kasus, dan menguji dengan brute force. Program Ini sangat efektif dan efisien untuk membantu meningkatkan keterampilan pemrograman kita dan membantu kita tampil baik dalam kontes atau lomba pemrograman.
 
 Program Ini juga dilengkapi voice message yang dapatt memberikan balasan suara dan menerima perintah suara kita. Kita dapat mengaktifkan atau menonaktifkan fitur-fitur ini. Di Pengaturan dapat dengan mudah diubah dari opsi konfigurasi.
 
